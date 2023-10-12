@@ -28,7 +28,7 @@ These things taste good.
 ![Openwrt](https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 ![1Password](https://img.shields.io/badge/1Password-%2302569B.svg?style=for-the-badge&logo=1password&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/elasticsearch-%23f0f8ff.svg?style=for-the-badge&logo=elasticsearch&logoColor=black)
+![ElasticSearch](https://img.shields.io/badge/elasticsearch-%23a2abb2.svg?style=for-the-badge&logo=elasticsearch&logoColor=black)
 
 My stats.
 
