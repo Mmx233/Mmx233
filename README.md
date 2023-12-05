@@ -33,3 +33,5 @@ These things taste good.
 My stats.
 
 ![Mmx's Github Stats](https://github-readme-stats.vercel.app/api?username=Mmx233&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_title=true)
+
+![Mmx's Public Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmx233&title_color=fff&text_color=9f9f9f&bg_color=151515&card_width=467.3)
