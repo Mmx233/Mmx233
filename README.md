@@ -31,5 +31,3 @@ My stats.
 ![Mmx's Github Stats](https://github-stats-extended-mmx233s-projects.vercel.app/api?username=Mmx233&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_title=true&card_width=495)
 
 [![Mmx's GitHub Streak](https://github-readme-streak-stats-efja66jqs-mmx233s-projects.vercel.app?user=Mmx233&theme=dark)](https://git.io/streak-stats)
-
-![Mmx's Public Top Langs](https://github-readme-stats-khaki-kappa-44.vercel.app/api/top-langs/?username=Mmx233&title_color=fff&text_color=9f9f9f&bg_color=151515&card_width=495)
